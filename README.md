@@ -2,9 +2,7 @@
 
 ![image-20191204160204190](README.assets/image-20191204160204190.png)
 
-A Mask RCNN network trained with synthetic images to segment crop seed shape.
-
-
+**Overview of the proposed training process of crop seed instance segmentation.**
 
 
 
