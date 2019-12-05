@@ -9,12 +9,13 @@
 ## Data included in this repository
 
 - Images
-  - Synthetic Images and Masks of Test Data -> [here](./data/synthetic_test)
-  - Real World Images of Test Data -> [here](./data/realworld_test/image)
-    - The annotation of Real World Images is in JSON file -> [here](data/realworld_test/metadata.json)
+  - Barley
+    - Synthetic Images and Masks of Test Data
+    - Real World Images of Test Data
+      - The annotation of Real World Images formated in JSON
 - Codes in Jupyter Notebooks
-  - [Mask RCNN Inference](./Mask_RCNN.ipynb)
-  - [Array of Multivariate Analysis](multivariate_analysis.ipynb)
+  - [Mask RCNN Inference of crop seed images](./Mask_RCNN.ipynb)
+  - [Multivariate Analysis and Visualization](multivariate_analysis.ipynb)
 
 
 
