@@ -1,4 +1,4 @@
-# Learning from Synthetic Images for Crop Seed Instance Segmentation
+# Learning from Synthetic Dataset for Crop Seed Instance Segmentation
 
 ![image-20191204160204190](README.assets/image-20191204160204190.png)
 
@@ -16,7 +16,7 @@
 
     
 
-## Large Size Files are stored at Google Drive
+## Large Files are stored in Google Drive
 
 https://drive.google.com/file/d/1g8bg9ter9DlKWgs0lfPZMQemRlzRVOQr/view?usp=sharing
 
@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1g8bg9ter9DlKWgs0lfPZMQemRlzRVOQr/view?usp=shari
   - Synthetic Images and Masks of Test Data
   - Real World Images of Test Data (19 barley cultivar)
     - The annotation of Real World Images formated in JSON
-  - Trained Model Weight
+  - Trained Model Weights
 - Other crops
   - Model Weights and Image of Rice seeds
   - Model Weights and Images of 4 Wheat cultivars. One model can infer 4.
