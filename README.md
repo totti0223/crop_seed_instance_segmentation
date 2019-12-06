@@ -41,7 +41,7 @@ https://drive.google.com/file/d/1g8bg9ter9DlKWgs0lfPZMQemRlzRVOQr/view?usp=shari
 
 2. Install Dependencies (See below)
 
-3. Download the data.zip from google drive and place it into the top directory (replace the empty "data" folder) of this repository
+3. Download the data.zip from google drive and place it into the top directory of this repository
 
 4. Run the notebook
 
